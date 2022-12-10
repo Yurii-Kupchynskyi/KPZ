@@ -157,7 +157,7 @@ export class Pharmacy extends Component {
             <tr>
               <th>MedicineId</th>
               <th>Name</th>
-              <th>Price</th>
+              <th>Price($)</th>
               <th>Options</th>
             </tr>
           </thead>
